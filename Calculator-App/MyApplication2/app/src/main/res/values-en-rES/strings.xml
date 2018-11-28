@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one">Uno\n(1)</string>
+    <string name="app_name">Calculadora</string>
+    <string name="two">Dos\n(2)</string>
+    <string name="four">Cuatro\n(4)</string>
+    <string name="five">Cinco\n(5)</string>
+    <string name="six">Seis\n(6)</string>
+    <string name="seven">Siete\n(7)</string>
+    <string name="eight">Ocho\n(8)</string>
+    <string name="nine">Nueve\n(9)</string>
+    <string name="zero">Cero\n(0)</string>
+    <string name="three">Tres\n(3)</string>
+    <string name="plus">Mas\n(\+)</string>
+    <string name="equals">Igual\n(\=)</string>
+</resources>

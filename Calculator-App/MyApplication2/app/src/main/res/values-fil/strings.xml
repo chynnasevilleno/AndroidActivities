@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="one">Isa\n(1)</string>
+    <string name="two">Dalawa\n(2)</string>
+    <string name="three">Tatlo\n(3)</string>
+    <string name="four">Apat\n(4)</string>
+    <string name="five">Lima\n(5)</string>
+    <string name="six">Anim\n(6)</string>
+    <string name="seven">Pito\n(7)</string>
+    <string name="eight">Walo\n(8)</string>
+    <string name="nine">Siyam\n(9)</string>
+    <string name="zero">Sero\n(0)</string>
+    <string name="plus">Dagdagan\n(+)</string>
+    <string name="equals">Equals\n(=)</string>
+</resources>

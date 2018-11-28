@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="one">One\n(1)</string>
+    <string name="two">Two\n(2)</string>
+    <string name="three">Three\n(3)</string>
+    <string name="four">Four\n(4)</string>
+    <string name="five">Five\n(5)</string>
+    <string name="six">Six\n(6)</string>
+    <string name="seven">Seven\n(7)</string>
+    <string name="eight">Eight\n(8)</string>
+    <string name="nine">Nine\n(9)</string>
+    <string name="zero">Zero\n(0)</string>
+    <string name="plus">Plus\n(+)</string>
+    <string name="equals">Equals\n(=)</string>
+</resources>
